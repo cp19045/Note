@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">备忘录</string>
+    <string name="edit_title">标题</string>
+    <string name="edit_text">内容</string>
+    <string name="edit_name">编辑笔记</string>
+    <string name="editor_note">天气预报</string>
+    <string-array name="type_name">
+        <item>学习</item>
+        <item>生活</item>
+        <item>其他</item>
+    </string-array>
+    <string name="all">首页</string>
+    <string name="stu">学习</string>
+    <string name="life">生活</string>
+    <string name="other">其他</string>
+    <string name="share">分享</string>
+    <string name="read_share">分享</string>
+    <string name="read">阅读</string>
+    <string name="dele">删除</string>
+    <string name="tips_crema">当前App需要申请读写文件和调用相机权限才能运行</string>
+    <string name="tips_limit">权限申请</string>
+    <string name="tips_limit_true">确认</string>
+    <string name="tips_limit_false">取消</string>
+    <string name="tips_limit_crema">当前App需要申请读写文件和调用相机权限,需要打开设置页面么?</string>
+</resources>
