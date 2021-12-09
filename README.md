@@ -11,4 +11,7 @@
 
 首页
 <img src="https://github.com/cp19045/Note/blob/master/Screenshot/%E9%A6%96%E9%A1%B5.png"/>
+编辑笔记
+
+<img src="https://github.com/cp19045/Note/blob/master/Screenshot/%E7%BC%96%E8%BE%91%E7%AC%94%E8%AE%B0.png"/>
 
